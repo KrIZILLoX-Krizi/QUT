@@ -1,0 +1,1 @@
+Generated QRs stay in this directory.
